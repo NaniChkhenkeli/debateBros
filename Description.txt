@@ -1,0 +1,57 @@
+		groupName: sudoku 
+participants:  Saba Tchumburidze, Saba Danelia, Nani Chkhenkeli 
+
+  Problem statement
+
+	Debates are a great way to develop critical thinking, However human judges often introduce bias, and real-time feedback is absent in casual debates.
+
+Solution
+	DebateBros provides an AI-powered debate judge that evaluates arguments fairly. It is a game played by two players, one player submits Pro argument on a given topic and another player submits Con argument, then LLM assesses their quality based on logic, evidence, persuasiveness and relevance.
+
+
+How It Works
+
+1. Topic Selection: Players choose a topic and number of rounds they want to play, then AI 	  	generates questions on which players should debate.
+
+2. Argument Submission: First player provides the Pro argument, then second player provides the Con argument.
+
+3. AI Evaluation: The AI provides general feedback and also scores both arguments on:
+
+Logical coherence
+
+Evidence 
+
+Persuasiveness
+
+Relevance to topic		
+
+
+4. Winner Decleration: A player with greater sum of scores in all rounds is declared a winner.
+		
+
+
+Technologies Used:
+	1. Python: The core programming language used for develop the game’s logic and integrating LLM.
+
+	2. Ollama (LLama3): A local LLM that powers AI judge.
+
+	3. Pygame: A library used to create graphical interface.
+
+Relation to the theme
+	
+The American Debate League emphasizes several key benefits of debate for students: 
+
+	1.	Enhancing Critical Thinking and Analytical Skills: Debate requires participants to engage with complex topics, analyze information, and construct coherent arguments. - source: 
+American Debate League
+
+	2.	Developing Effective Communication Skills: Debating teaches students to articulate their thoughts clearly and persuasively, both orally and in writing. - source: American Debate League
+
+	3.	Building Confidence and Public Speaking Abilities: Regular participation in debates helps students overcome the fear of public speaking and gain confidence.  - source: American Debate League
+
+How Technologies Facilitate These Benefits
+
+	1. AI-Powered Evaluation: By providing immediate, unbiased feedback on arguments, the AI judge encourages players to think critically about their reasoning and improve their analytical skills.
+
+	2. Interactive Platform (Pygame): The engaging interface motivates users to participate actively.
+
+	3. Automated Topic Generation: The AI’s ability to generate diverse debate subtopics encourages players to explore various subjects, fostering research skills and broadening their knowledge base.
