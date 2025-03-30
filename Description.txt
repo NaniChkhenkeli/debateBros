@@ -11,19 +11,19 @@ Solution
 
 How It Works
 
-1. Topic Selection: Players choose a topic and number of rounds they want to play, then AI 	  	generates questions on which players should debate.
+1. Topic Selection: Players choose a topic and number of rounds they want to play, then AI generates questions on which players should debate.
 
 2. Argument Submission: First player provides the Pro argument, then second player provides the Con argument.
 
 3. AI Evaluation: The AI provides general feedback and also scores both arguments on:
-
-Logical coherence
-
-Evidence 
-
-Persuasiveness
-
-Relevance to topic		
+	
+	Logical coherence
+	
+	Evidence 
+	
+	Persuasiveness
+	
+	Relevance to topic		
 
 
 4. Winner Decleration: A player with greater sum of scores in all rounds is declared a winner.
