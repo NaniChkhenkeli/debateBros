@@ -2,21 +2,6 @@ groupName: sudoku
 participants:  Saba Tchumburidze, Saba Danelia, Nani Chkhenkeli 
 
 
-
-# DebateBros - AI Debate Game
-
-DebateBros is an interactive debate game where players can engage in structured debates with Pro and Con positions. The game uses AI to generate debate topics and judge the arguments.
-
-## Features
-
-- Interactive debate format with Pro and Con sides
-- AI-generated debate topics and subtopics
-- Scoring system based on logic, evidence, persuasiveness, and relevance
-- Animated characters and visual effects
-- End-of-game summary with winner announcement
-
-
-
 ## Requirements
 
 - Python 3.6 or higher
@@ -55,43 +40,6 @@ DebateBros is an interactive debate game where players can engage in structured 
    ```
    python main.py
    ```
-
-## How to Play
-
-1. Start Screen:
-   - Enter a debate topic
-   - Set the number of rounds (1-8)
-   - Click "START"
-
-2. During the Debate:
-   - The PRO side argues first
-   - Type your argument (at least 20 characters)
-   - Press Enter to submit
-   - The CON side argues next
-   - After both sides have argued, the AI will judge and assign scores
-
-3. Scoring:
-   - Arguments are scored on:
-     - Logical coherence
-     - Evidence quality
-     - Persuasiveness
-     - Relevance to the topic
-
-4. Winning:
-   - The side with the highest total score at the end of all rounds wins
-
-## Development
-
-### Adding New Assets
-
-To add new character animations or backgrounds:
-
-1. Place new images in the corresponding folders:
-   - `images/character1/` for PRO character
-   - `images/character2/` for CON character
-   - `images/attack/` for special animations
-
-2. Images should be named numerically starting from 1 (e.g., 1.png, 2.png, etc.)
 
 ### Modifying AI Behavior
 
