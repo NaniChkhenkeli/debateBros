@@ -880,7 +880,7 @@ class UI:
 
 
 # Fix for the main function
-def main():
+def debates():
     global index, proLogicText, proEvidenceText, proPersuasiveText, proRelevanceText, proScore, proFeedback
     global conLogicText, conEvidenceText, conPersuasiveText, conRelevanceText, conScore, conFeedback
 
@@ -1146,4 +1146,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    debates()
