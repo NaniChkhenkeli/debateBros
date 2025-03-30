@@ -36,7 +36,6 @@ AI Evaluation: The system analyzes arguments across multiple criteria
 Results & Feedback: Scores are displayed and a winner is determined based on cumulative performance
 
 Educational Value
-DebateBros aligns with the American Debate League's emphasis on debate as a tool for developing:
 
 Critical thinking and analytical skills through structured argument construction
 Effective communication abilities through clear articulation of complex ideas
