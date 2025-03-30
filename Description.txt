@@ -5,9 +5,14 @@ Group Name: Sudoku
 Participants: Saba Tchumburidze, Saba Danelia, Nani Chkhenkeli
 
 Problem Statement
-Debates are valuable for developing critical thinking, but traditional debate formats face significant challenges: human judges often introduce unintentional bias, professional judging is inaccessible for casual practice, and participants rarely receive immediate, structured feedback on their arguments.
+Debates are valuable for developing critical thinking, but traditional debate formats face significant challenges: human judges often introduce unintentional bias,
+professional judging is inaccessible for casual practice, and participants rarely receive immediate, structured feedback on their arguments.
 Solution Overview
-DebateBros is an interactive application that provides an AI-powered debate judge to evaluate arguments fairly and impartially. Two players engage in structured debates, with one presenting a Pro argument and the other presenting a Con argument on AI-generated topics. The LLM assesses argument quality based on logical coherence, evidence quality, persuasiveness, and relevance.
+DebateBros is an interactive application that provides an AI-powered debate judge to evaluate arguments fairly and impartially. Two players engage in structured debates,
+with one presenting a Pro argument and the other presenting a Con argument on AI-generated topics. The LLM assesses argument quality based on logical coherence, evidence quality, persuasiveness,
+and relevance.
+
+
 Key Features
 
 AI Topic Generation: System creates relevant debate questions based on user-selected topics
@@ -25,7 +30,7 @@ User Interface: Pygame for creating an interactive graphical experience
 How It Works
 
 Topic Selection: Players choose a debate theme and number of rounds
-Question Generation: AI creates specific debate questions on the selected theme
+Question Generation: AI creates specific debate questions on the selected theme per round
 Argument Submission: Players take turns submitting Pro and Con arguments
 AI Evaluation: The system analyzes arguments across multiple criteria
 Results & Feedback: Scores are displayed and a winner is determined based on cumulative performance
@@ -43,7 +48,6 @@ As a 24-hour hackathon project, DebateBros demonstrates significant potential fo
 Voice input capabilities for more natural debating
 Advanced feedback with personalized improvement strategies
 Expanded topic libraries with varying difficulty levels
-Online multiplayer functionality for remote debate practice
 Integration with educational platforms for classroom use
 
 This one-day prototype showcases how AI can make debate practice more accessible, providing immediate, structured feedback without requiring a human judge.
